@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="siddeswara">Sri Siddeswara PG</string>
+    <string name="description">{fa-file-text 18sp #673AB7}"  "Room available for male/female with all facilities</string>
+    <string name="address">{fa-map-marker 18sp #FF4081}"  "4th Cross,Marathalli,Bangalore-560037</string>
+    <string name="contact">{fa-phone 18sp #4CAF50}"  "9900441966,9880196396</string>
+    <string name="email">{fa-envelope-o 18sp #FF5722}"  "contact@siddeswarapg.com</string>
+    <string name="website">{fa-internet-explorer 18sp #03A9F4}"  "www.siddeswarapg.com</string>
+    <string name="time">{fa-clock-o 18sp #E91E63}"  "9am to 7pm</string>
+    <string name="Facilities">{fa-cog spin 18sp #9C27B0}"   "Facilities"   "{fa-cog spin 18sp #9C27B0}</string>
+    <string name="male">{fa-male 18sp #9C27B0}"  "For Male</string>
+    <string name="bed">{fa-bed 18sp #9C27B0}"  "Beddings</string>
+    <string name="wifi">{fa-wifi 18sp #9C27B0}"  "Wifi</string>
+    <string name="ups">{entypo-power-plug 18sp #9C27B0}"  "Inverter</string>
+    <string name="female">For Female"  "{fa-female 18sp #9C27B0}</string>
+    <string name="food">Food"  "{fa-cutlery 18sp #9C27B0}</string>
+    <string name="tv">LED TV"  "{fa-tv 18sp #9C27B0}</string>
+    <string name="maid">Maid Service"  "{entypo-trash 18sp #9C27B0}</string>
+</resources>
+
