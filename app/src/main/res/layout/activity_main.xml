@@ -39,11 +39,18 @@
             app:pageColor="@color/pageColor"
             app:snap="false" />
     </RelativeLayout>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="65">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="28"
+        android:layout_height="match_parent"
         android:orientation="vertical">
 
 
@@ -122,8 +129,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="27"
+        android:layout_height="match_parent"
         android:orientation="vertical">
 
         <com.joanzapata.iconify.widget.IconTextView
@@ -251,5 +257,6 @@
         </LinearLayout>
     </LinearLayout>
 
-
+    </LinearLayout>
+</ScrollView>
 </LinearLayout>
